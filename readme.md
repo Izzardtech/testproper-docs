@@ -32,4 +32,4 @@ List
 7. > Blockquote4
 
 
-!()
+ ![Test Proper](images/TestProperLogo.png)
