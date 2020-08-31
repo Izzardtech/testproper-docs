@@ -1,35 +1,52 @@
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-\
-Ctrl+b **BOLD** \
-Ctrl+i *ITALIC* \
-(Ctrl+i) + (Ctrl+b) ***BOLD AND ITALIC*** \
-\
-New Line
+# ![Test Proper](images/TestProperx32.png)   Test Proper Guide
 
-> BlockQuote
->> Nested BlockQuote
->>> Nested Nested BlockQuote
+## Table of Contents
 
-List
-- item1
-- item2
-- item3
-  - Nested item1
-    - Nested Nested item1
+### **[Parent Host](###Parent_Host)**
+### **[Child Host](###Child_Host)**
+### **[Mobile App](###Mobile_App)**
+### **[Desktop App](###Desktop_App)**
 
-1. First
-2. Second
-   1. Nested First
-3. Third
-4. > Blockquote
-5. > Blockquote2
-6. > Blockquote3
-7. > Blockquote4
+---
+### Parent_Host
+1. Candidate Authentication
+   1. Mobile and Web app
+2. Candidate Analytics and Control
+   1. Usage
+   2. Connections to Orgs
+   3. Certificates
+   4. Performance
+3. Child Host Activation
+   1. Signup Activation
+   2. Usability Violation Rules
+4. Child Host Configurations and Deployments
+   1. Child Host Profile
+   2. Billings
+   3. Cloud Configurations
+   4. Database Migration
+   5. Database Backup & Archives
+   6. Databse Reset
+5. Child Host Analytics and usage limits
+   1. Usage By `Power, Bandwidth, Tests, Candidates`
+   2. Live Status
+   3. Administrative Users
+6. Question Bank Market
+   1. Publisher
+   2. Billings
+   3. Reviews
+   4. Sales 
+7. Horizontal Scaling (Multi Server Instances)
+8. Vertical Scaling (Multi Region)
+
+---
+### Child_Host
+---
+### Mobile_App
+---
+### Desktop_App
+---
 
 
- ![Test Proper](images/TestProperLogo.png)
+
+
+
