@@ -3,7 +3,7 @@
 Designed and initiated a multitenant app for exams/test generation with a Flutter mobile app and Laravel(PHP) backend. The motto behind this project is to conduct seamless exams with the use of a question bank and an interface to conduct tests through web, desktop, and mobile devices in kiosk mode.
 
 ## Table of Contents
-
+Note: These repositories are visible in private access only.
 ### **[[Parent Host](###Parent_Host)](https://github.com/Izzardtech/testproper-parent-host)**
 ### **[[Child Host](###Child_Host)](https://github.com/Izzardtech/testproper-child-host)**
 ### **[[Mobile App](###Mobile_App)](https://github.com/Izzardtech/testproper-mobile-client)**
